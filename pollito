@@ -1,0 +1,28 @@
+public static void main(String[] args) {		
+		System.out.println("       *******");
+		System.out.println("   ******   ****");
+		System.out.println("  **           ****");
+		System.out.println(" **                **");
+		System.out.println("**                   *");
+		System.out.println("**                   *");
+		System.out.println("**                  **         **  **");
+		System.out.println("*                   **       *       *");
+		System.out.println("*                     ********       *");
+		System.out.println("*   POLLOS DON JUAN                  *");
+		System.out.println("*                                    *");
+		System.out.println("*                                    *");
+		System.out.println("*                     *******        *");
+		System.out.println("*                   **       *       *");
+		System.out.println("*                   **        **  ***");
+		System.out.println("**                  *           ****");
+		System.out.println("**                  *");
+		System.out.println(" **               **");
+		System.out.println("  **            **");
+		System.out.println("   ******   ****");
+		System.out.println("       *******	");
+		
+		
+		
+
+}
+}
